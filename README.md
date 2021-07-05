@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rakaah
+- 👀 I’m interested in JavaScript, Python And Many More
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on Discord.JS Bots
+- 📫 How to reach me Send a Email: kahenrique008@gmail.com
